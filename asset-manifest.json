@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.539d5c5c.css",
+    "main.js": "/portfolio/static/js/main.6fd59c17.js",
+    "static/js/345.d6a2a880.chunk.js": "/portfolio/static/js/345.d6a2a880.chunk.js",
+    "static/media/project_6.png": "/portfolio/static/media/project_6.d144257f019b329abddf.png",
+    "static/media/project_3.png": "/portfolio/static/media/project_3.0ab787efc5d5aec34d0c.png",
+    "static/media/project_4.png": "/portfolio/static/media/project_4.14f9fb5416d27a1c2629.png",
+    "static/media/project_1.png": "/portfolio/static/media/project_1.f633590870742e8c6182.png",
+    "static/media/project_7.png": "/portfolio/static/media/project_7.3fe4bf2bc2a5bf4ce20f.png",
+    "static/media/project_2.png": "/portfolio/static/media/project_2.ca2facd15ae90d62fe38.png",
+    "static/media/project_5.png": "/portfolio/static/media/project_5.0970e4ea621e399c8aaa.png",
+    "static/media/bear-svgrepo-com-2.svg": "/portfolio/static/media/bear-svgrepo-com-2.91ab71cb9eb087882763.svg",
+    "static/media/telegram-svgrepo-com.svg": "/portfolio/static/media/telegram-svgrepo-com.f5add902aa9bdcb1438d.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/instagram-svgrepo-com.svg": "/portfolio/static/media/instagram-svgrepo-com.14edd03d1ee1bd8ef49a.svg",
+    "static/media/github-svgrepo-com.svg": "/portfolio/static/media/github-svgrepo-com.cbd2483ffea544fbd9aa.svg",
+    "main.539d5c5c.css.map": "/portfolio/static/css/main.539d5c5c.css.map",
+    "main.6fd59c17.js.map": "/portfolio/static/js/main.6fd59c17.js.map",
+    "345.d6a2a880.chunk.js.map": "/portfolio/static/js/345.d6a2a880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539d5c5c.css",
+    "static/js/main.6fd59c17.js"
+  ]
+}
