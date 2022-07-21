@@ -1,0 +1,112 @@
+.home {
+	width: 100%;
+	align-items: center;
+	color: #000000;
+}
+  
+.about {
+	width: 100%;
+	height: calc(100vh - 100px);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #000000;
+	color: #f0f0f0;
+	h2{
+		font-size: 80px;
+		color: #e9d35b;
+		height: 50px;
+	}
+  }
+  
+.prompt {
+	margin-top: 60px;
+	width: 40%;
+	font-size: 30px;
+}
+
+.containerskills{
+	padding: 20px;
+}
+
+
+.skills {
+	padding-top: 40px;
+	font-size: 35px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	gap: 30px;
+	background: #000000;
+	color: #ffffff;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+.skills h1 {
+	font-size: 70px;
+	color: #ffffff;
+}
+
+.list {
+	margin-bottom: 30px;
+	list-style: none;
+	width: 60%;
+}
+
+.list span {
+font-size: 20px;
+}
+
+.item{
+	// text-align: center;
+	font-size: 50px;
+	margin-bottom: 70px;
+	span{
+		font-size: 30px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.prompt {
+		margin-top: 120px;
+		width: 80%;
+		font-size: 30px;
+	}
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+.about h2 {
+	font-size: 40px;
+}
+.prompt {
+	margin-top: 10px;
+	font-size: 20px;
+	width: 80%;
+}
+
+.skills {
+	text-align: center;
+}
+.list {
+	padding: 0;
+}
+
+.skills h2 {
+	font-size: 30px;
+}
+}
+@media screen and (max-width: 400px) {
+	.prompt {
+		margin-top: 30px;
+		width: 80%;
+		font-size: 30px
+	}
+}

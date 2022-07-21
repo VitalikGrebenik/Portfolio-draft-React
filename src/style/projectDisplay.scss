@@ -1,0 +1,31 @@
+.containerproject{
+	padding: 20px;
+}
+
+.project {
+	border-radius: 10px;
+	border: 1px solid white;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+	h1{
+		margin: 50px;
+		color: #ffffff;
+		font-size: 35px;
+	}
+	img{
+		width: 1000px;
+		border-radius: 10px;
+	}
+	p{
+		margin: 50px;
+		font-size: 40px;
+		color: #ffffff;
+	}
+	.githab{
+		margin-bottom: 50px;
+	}
+  }
